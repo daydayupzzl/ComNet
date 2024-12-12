@@ -1,0 +1,24 @@
+model:
+  name: "ComNet-DDI"
+  hidden_dim: 64
+  dropout: 0.2
+  rmodule_dim: 86  # You can change this based on the dataset
+
+training:
+  epochs: 500
+  batch_size: 256
+  lr: 0.001
+  weight_decay: 0.0005
+  iter_metric: "f1"
+
+dataset:
+  name: "drugbank"
+  data_root: "data/preprocessed/"
+
+device:
+  gpu: "0"
+
+save_dir: "save"
+paths:
+  model_path: "save/best_model.pth"
+  result_path: "results/test_results.txt"

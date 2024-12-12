@@ -1,0 +1,11 @@
+{
+    "possible_atom_list": ["C", "N", "O", "S", "F", "P", "Cl", "Mg", "Na", "Br", "Fe", "Ca", "Cu", "Mc", "Pd", "Pb", "K", "I", "Al", "Ni", "Mn"],
+    "possible_numH_list": [0, 1, 2, 3, 4],
+    "possible_valence_list": [0, 1, 2, 3, 4, 5, 6],
+    "possible_formal_charge_list": [-3, -2, -1, 0, 1, 2, 3],
+    "possible_hybridization_list": ["SP", "SP2", "SP3", "SP3D", "SP3D2"],
+    "possible_number_radical_e_list": [0, 1, 2],
+    "possible_chirality_list": ["R", "S"],
+    "possible_bond_stereo": ["STEREONONE", "STEREOANY", "STEREOZ", "STEREOE"],
+    "bond_fdim_base": 6
+}
