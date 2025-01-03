@@ -1,4 +1,4 @@
-# ComNet: A Multi-View Deep Learning Model for Predicting Drug Combination Side Effects
+# ComNet: A Multiview Deep Learning Model for Predicting Drug Combination Side Effects
 
 [![Python 3.7](https://img.shields.io/badge/Python-3.7-blue)]()
 [![PyTorch 1.10+](https://img.shields.io/badge/PyTorch-1.10%2B-red)]()
@@ -110,13 +110,15 @@ ComNet is designed specifically for predicting side effects caused by drug combi
 ## 📄 Citation
 If you use ComNet in your research or have been inspired by it, please cite the following paper:
 ```text
-@article{,
-  title={ComNet: A Multi-View Deep Learning Model for Predicting Drug Combination Side Effects},
-  author={},
-  journal={},
-  year={2024},
-  volume={X},
-  number={Y},
-  pages={Z-Z},
+@ARTICLE{Zhang2025-lz,
+  title     = "{ComNet}: A Multiview Deep Learning Model for Predicting Drug
+               Combination Side Effects",
+  author    = "Zhang, Zuolong and Liu, Fang and Shang, Xiaonan and Chen,
+               Shengbo and Zuo, Fang and Wu, Yi and Long, Dazhi",
+  journal   = "J. Chem. Inf. Model.",
+  publisher = "American Chemical Society",
+  month     =  jan,
+  year      =  2025
 }
+
 ```
