@@ -110,15 +110,19 @@ ComNet is designed specifically for predicting side effects caused by drug combi
 ## 📄 Citation
 If you use ComNet in your research or have been inspired by it, please cite the following paper:
 ```text
-@ARTICLE{Zhang2025-lz,
-  title     = "{ComNet}: A Multiview Deep Learning Model for Predicting Drug
-               Combination Side Effects",
-  author    = "Zhang, Zuolong and Liu, Fang and Shang, Xiaonan and Chen,
-               Shengbo and Zuo, Fang and Wu, Yi and Long, Dazhi",
-  journal   = "J. Chem. Inf. Model.",
-  publisher = "American Chemical Society",
-  month     =  jan,
-  year      =  2025
+@article{doi:10.1021/acs.jcim.4c01737,
+author = {Zhang, Zuolong and Liu, Fang and Shang, Xiaonan and Chen, Shengbo and Zuo, Fang and Wu, Yi and Long, Dazhi},
+title = {ComNet: A Multiview Deep Learning Model for Predicting Drug Combination Side Effects},
+journal = {Journal of Chemical Information and Modeling},
+volume = {0},
+number = {0},
+pages = {null},
+year = {0},
+doi = {10.1021/acs.jcim.4c01737},
+note ={PMID: 39749659},
+URL = {https://doi.org/10.1021/acs.jcim.4c01737},
+eprint = {https://doi.org/10.1021/acs.jcim.4c01737}
 }
+
 
 ```
